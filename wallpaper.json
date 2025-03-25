@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Sunset Bliss",
+    "url": "https://raw.githubusercontent.com/Atiksindhi/Wallpapers/main/wallpaper/wall1.jpg",
+    "author": "benjamin voros",
+    "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Wallpapers/main/wallpaper/wall1.jpg",
+    "collections": "Space,Moon",
+    "downloadable": true,
+    "dimensions": "1920x1080",
+    "copyright": "Free to use"
+  },
+  {
+    "name": "Mountain Escape",
+    "url": "https://raw.githubusercontent.com/Atiksindhi/Wallpapers/main/wallpaper/wall2.jpg",
+    "author": "bryan goff",
+    "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Wallpapers/main/wallpaper/wall2.jpg",
+    "collections": "Space,Moon",
+    "downloadable": true,
+    "size": 3072000,
+    "dimensions": "2560x1440",
+    "copyright": "Free to use"
+  }
+]
