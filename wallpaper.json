@@ -1,24 +1,57 @@
 [
-  {
-    "name": "Moon HD",
-    "url": "https://raw.githubusercontent.com/Atiksindhi/Wallpapers/main/wallpaper/wall1.jpg",
-    "author": "benjamin voros",
-    "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Wallpapers/main/wallpaper/wall1.jpg",
-    "collections": "Space,Moon",
-    "downloadable": true,
-    "size": 3072000,
-    "dimensions": "1920x1080",
-    "copyright": "Free to use"
-  },
-  {
-    "name": "Glowing Moon",
-    "url": "https://raw.githubusercontent.com/Atiksindhi/Wallpapers/main/wallpaper/wall2.jpg",
-    "author": "bryan goff",
-    "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Wallpapers/main/wallpaper/wall2.jpg",
-    "collections": "Space,Moon",
-    "downloadable": true,
-    "size": 3072000,
-    "dimensions": "2560x1440",
-    "copyright": "Free to use"
-  }
+    {
+        "name": "Moon",
+        "url": "https://raw.githubusercontent.com/Atiksindhi/Wallpapers/main/wallpaper/wall1.jpg",
+        "author": "benjamin voros",
+        "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Wallpapers/main/wallpaper/wall1.jpg",
+        "collections": "Moon",
+        "downloadable": true,
+        "size": 1000000,
+        "dimensions": "1920x1080",
+        "copyright": "Free to use"
+    },
+    {
+        "name": "Glowing Moon",
+        "url": "https://raw.githubusercontent.com/Atiksindhi/Wallpapers/main/wallpaper/wall2.jpg",
+        "author": "bryan goff",
+        "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Wallpapers/main/wallpaper/wall2.jpg",
+        "collections": "Moon",
+        "downloadable": true,
+        "size": 1430000,
+        "dimensions": "1920x1080",
+        "copyright": "Free to use"
+    },
+    {
+        "name": "Milkyway Galaxy",
+        "url": "https://raw.githubusercontent.com/Atiksindhi/Wallpapers/main/wallpaper/wall3.jpg",
+        "author": "clarisse meyer",
+        "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Wallpapers/main/wallpaper/wall3.jpg",
+        "collections": "Space",
+        "downloadable": true,
+        "size": 9860000,
+        "dimensions": "1920x1080",
+        "copyright": "Free to use"
+    },
+    {
+        "name": "Earth From Space",
+        "url": "https://raw.githubusercontent.com/Atiksindhi/Wallpapers/main/wallpaper/wall4.jpg",
+        "author": "daniel olah",
+        "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Wallpapers/main/wallpaper/wall4.jpg",
+        "collections": "Space",
+        "downloadable": true,
+        "size": 5880000,
+        "dimensions": "1920x1080",
+        "copyright": "Free to use"
+    },
+    {
+        "name": "Neptune",
+        "url": "https://raw.githubusercontent.com/Atiksindhi/Wallpapers/main/wallpaper/wall5.jpg",
+        "author": "daniel olah",
+        "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Wallpapers/main/wallpaper/wall5.jpg",
+        "collections": "Space,Moon",
+        "downloadable": true,
+        "size": 7370000,
+        "dimensions": "8008x8008",
+        "copyright": "Free to use"
+    }
 ]
