@@ -1,5 +1,137 @@
 [
     {
+        "name": "Amoled Light",
+        "url": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20Light.jpg",
+        "author": "Horizon Walls",
+        "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20Light.jpg",
+        "collections": "Amoled",
+        "downloadable": true,
+        "size": 1000000,
+        "dimensions": "4096x4096",
+        "copyright": "Free to use"
+    },
+    {
+        "name": "Amoled Lightning",
+        "url": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20Lightning.jpg",
+        "author": "Horizon Walls",
+        "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20Lightning.jpg",
+        "collections": "Amoled",
+        "downloadable": true,
+        "size": 1000000,
+        "dimensions": "4096x4096",
+        "copyright": "Free to use"
+    },
+    {
+        "name": "Amoled Lines 2",
+        "url": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20Lines%202.jpg",
+        "author": "Horizon Walls",
+        "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20Lines%202.jpg",
+        "collections": "Amoled",
+        "downloadable": true,
+        "size": 1000000,
+        "dimensions": "4096x4096",
+        "copyright": "Free to use"
+    },
+    {
+        "name": "Amoled Lines",
+        "url": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20Lines.jpg",
+        "author": "Horizon Walls",
+        "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20Lines.jpg",
+        "collections": "Amoled",
+        "downloadable": true,
+        "size": 1000000,
+        "dimensions": "4096x4096",
+        "copyright": "Free to use"
+    },
+    {
+        "name": "Amoled Logo",
+        "url": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20Logo.jpg",
+        "author": "Horizon Walls",
+        "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20Logo.jpg",
+        "collections": "Amoled",
+        "downloadable": true,
+        "size": 1000000,
+        "dimensions": "4096x4096",
+        "copyright": "Free to use"
+    },
+    {
+        "name": "Amoled oval",
+        "url": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20Oval.jpg",
+        "author": "Horizon Walls",
+        "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20Oval.jpg",
+        "collections": "Amoled",
+        "downloadable": true,
+        "size": 1000000,
+        "dimensions": "4096x4096",
+        "copyright": "Free to use"
+    },
+    {
+        "name": "Amoled Ring 2",
+        "url": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20RIng%202.jpg",
+        "author": "Horizon Walls",
+        "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20RIng%202.jpg",
+        "collections": "Amoled",
+        "downloadable": true,
+        "size": 1000000,
+        "dimensions": "4096x4096",
+        "copyright": "Free to use"
+    },
+    {
+        "name": "Amoled Ring",
+        "url": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20Ring.jpg",
+        "author": "Horizon Walls",
+        "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20Ring.jpg",
+        "collections": "Amoled",
+        "downloadable": true,
+        "size": 1000000,
+        "dimensions": "4096x4096",
+        "copyright": "Free to use"
+    },
+    {
+        "name": "Amoled String 2",
+        "url": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20String%202.jpg",
+        "author": "Horizon Walls",
+        "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20String%202.jpg",
+        "collections": "Amoled",
+        "downloadable": true,
+        "size": 1000000,
+        "dimensions": "4096x4096",
+        "copyright": "Free to use"
+    },
+    {
+        "name": "Amoled String",
+        "url": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20String.jpg",
+        "author": "Horizon Walls",
+        "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20String.jpg",
+        "collections": "Amoled",
+        "downloadable": true,
+        "size": 1000000,
+        "dimensions": "4096x4096",
+        "copyright": "Free to use"
+    },
+    {
+        "name": "Amoled Wave",
+        "url": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20Wave.jpg",
+        "author": "Horizon Walls",
+        "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20Wave.jpg",
+        "collections": "Amoled",
+        "downloadable": true,
+        "size": 1000000,
+        "dimensions": "4096x4096",
+        "copyright": "Free to use"
+    },
+    {
+        "name": "Amoled Waves",
+        "url": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20Waves.jpg",
+        "author": "Horizon Walls",
+        "thumbnail": "https://raw.githubusercontent.com/Atiksindhi/Orignals/main/orignals/Amoled%20Waves.jpg",
+        "collections": "Amoled",
+        "downloadable": true,
+        "size": 1000000,
+        "dimensions": "4096x4096",
+        "copyright": "Free to use"
+    },
+    {
         "name": "Moon",
         "url": "https://raw.githubusercontent.com/Atiksindhi/Wallpapers/main/wallpaper/wall1.jpg",
         "author": "benjamin voros",
